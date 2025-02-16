@@ -1,0 +1,12 @@
+﻿{
+  "build": {
+    "nixpacks": {
+      "plan": {
+        "providers": [ "dotnet" ],
+        "variables": {
+          "DOTNET_VERSION": "8.0"
+        }
+      }
+    }
+  }
+}
